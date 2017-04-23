@@ -48,3 +48,12 @@ Plugin call:
             window.settings.openSettings("touchid");
         });
 
+
+Select one of the options below for the param to open native setting
+
+    "account",
+    "application_details",
+    "location",
+    "wifi",
+    "touchid",
+     "about"
