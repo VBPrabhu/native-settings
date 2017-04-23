@@ -1,6 +1,6 @@
 #import <Cordova/CDV.h>
 
-@interface CDVSettings : CDVPlugin
+@interface CDVNativeSettings : CDVPlugin
 
 #define SYSTEM_VERSION_LESS_THAN(v)                 ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
 

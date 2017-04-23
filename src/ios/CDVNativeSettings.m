@@ -1,7 +1,7 @@
-#import "CDVSettings.h"
+#import "CDVNativeSettings.h"
 #import <Cordova/CDV.h>
 
-@implementation CDVSettings
+@implementation CDVNativeSettings
 
 - (void)openSettings:(CDVInvokedUrlCommand*)command {
     CDVPluginResult* pluginResult = nil;

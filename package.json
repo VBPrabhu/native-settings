@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-settings",
+  "name": "cordova-plugin-native-settings",
   "version": "1.0.1",
-  "description": "Cordova Settings Plugin",
+  "description": "Cordova Native Settings Plugin",
   "cordova": {
-    "id": "cordova-plugin-settings",
+    "id": "cordova-plugin-native-settings",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CookieCookson/cordova-plugin-settings.git"
+    "url": "git+https://github.com/VBPrabhu/native-settings.git"
   },
   "keywords": [
     "cordova",
@@ -18,10 +18,10 @@
     "ecosystem:cordova",
     "cordova-ios"
   ],
-  "author": "Christian Cook",
+  "author": "Venkat Prabhu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CookieCookson/cordova-plugin-settings/issues"
+    "url": "https://github.com/VBPrabhu/native-settings/issues"
   },
-  "homepage": "https://github.com/CookieCookson/cordova-plugin-settings#readme"
+  "homepage": "https://github.com/VBPrabhu/native-settings#readme"
 }
