@@ -1,7 +1,7 @@
 var exec = require('cordova/exec');
 
 module.exports = {
-    openSettings: function() {
-        exec(null, null, "Settings", "openSettings", []);
+    openSettings: function(setvalue) {
+        exec(null, null, "Settings", "openSettings", [setvalue]);
     }
 };
